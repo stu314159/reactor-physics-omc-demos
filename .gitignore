@@ -9,6 +9,10 @@ geometry.xml
 materials.xml
 settings.xml
 tallies.xml
+plots.xml
+# OpenMC generated images
+*.png
+*.ppm
 
 
 # Byte-compiled / optimized / DLL files
